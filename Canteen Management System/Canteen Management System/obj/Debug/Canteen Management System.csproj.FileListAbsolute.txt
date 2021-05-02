@@ -1,0 +1,27 @@
+D:\Data\C#\Practice\Canteen Management System\Canteen Management System\bin\Debug\Canteen Management System.exe.config
+D:\Data\C#\Practice\Canteen Management System\Canteen Management System\bin\Debug\Canteen Management System.exe
+D:\Data\C#\Practice\Canteen Management System\Canteen Management System\bin\Debug\Canteen Management System.pdb
+D:\Data\C#\Practice\Canteen Management System\Canteen Management System\obj\Debug\Canteen Management System.csprojResolveAssemblyReference.cache
+D:\Data\C#\Practice\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.Properties.Resources.resources
+D:\Data\C#\Practice\Canteen Management System\Canteen Management System\obj\Debug\Canteen Management System.csproj.GenerateResource.Cache
+D:\Data\C#\Practice\Canteen Management System\Canteen Management System\obj\Debug\Canteen Management System.exe
+D:\Data\C#\Practice\Canteen Management System\Canteen Management System\obj\Debug\Canteen Management System.pdb
+D:\Data\C#\Practice\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.Form2.resources
+D:\Data\C#\Practice\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.login.resources
+D:\Data\C#\Practice\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.placeOrder.resources
+D:\Data\C#\Practice\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.Update.resources
+D:\Data\C#\Practice\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.Form3.resources
+E:\Data\C#\Practice\Canteen Management System\Canteen Management System\bin\Debug\Canteen Management System.exe.config
+E:\Data\C#\Practice\Canteen Management System\Canteen Management System\bin\Debug\Canteen Management System.exe
+E:\Data\C#\Practice\Canteen Management System\Canteen Management System\bin\Debug\Canteen Management System.pdb
+E:\Data\C#\Practice\Canteen Management System\Canteen Management System\obj\Debug\Canteen Management System.csprojAssemblyReference.cache
+E:\Data\C#\Practice\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.login.resources
+E:\Data\C#\Practice\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.Form2.resources
+E:\Data\C#\Practice\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.Form3.resources
+E:\Data\C#\Practice\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.placeOrder.resources
+E:\Data\C#\Practice\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.Properties.Resources.resources
+E:\Data\C#\Practice\Canteen Management System\Canteen Management System\obj\Debug\Canteen_Management_System.Update.resources
+E:\Data\C#\Practice\Canteen Management System\Canteen Management System\obj\Debug\Canteen Management System.csproj.GenerateResource.cache
+E:\Data\C#\Practice\Canteen Management System\Canteen Management System\obj\Debug\Canteen Management System.csproj.CoreCompileInputs.cache
+E:\Data\C#\Practice\Canteen Management System\Canteen Management System\obj\Debug\Canteen Management System.exe
+E:\Data\C#\Practice\Canteen Management System\Canteen Management System\obj\Debug\Canteen Management System.pdb
